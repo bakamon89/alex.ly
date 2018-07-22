@@ -10,3 +10,5 @@ type = "page"
 weight = 111
 
 +++
+Finance professional by day, chef/photographer/coffee-adict/dog-lover by nature. 
+Swing by for an unapologetic view of NYC through the eyes of a british born chinese from muggy London
