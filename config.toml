@@ -17,10 +17,10 @@ canonifyurls    = true
   customCSS = []
   RSSLink = ""
 
-  twitterName = "faketryghost"
-  fbName = "fakeghost"
-  githubName = "eueung"
-  linkedinName = "eueung"
+  twitterName = "" #putusernamehere
+  fbName = ""
+  githubName = ""
+  linkedinName = ""
   mediumName = ""
 
   logo = "hugo-logo.png"
@@ -84,7 +84,7 @@ canonifyurls    = true
 
 [[menu.main]]
   name = "External"
-  url = "https://google.com/"
+  url = ""
   weight = 95
 
 
