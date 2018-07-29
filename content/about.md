@@ -13,4 +13,4 @@ weight = 111
 Finance professional by day, chef/photographer/coffee-adict/dog-lover by nature. 
 Swing by for an unapologetic view of NYC through the eyes of a British born Chinese from muggy London.
 
-<img src="/img/profile.jpg" width="200">
+<img src="/img/profile.jpg" width="350">
